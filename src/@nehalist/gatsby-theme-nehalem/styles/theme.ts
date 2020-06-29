@@ -1,8 +1,8 @@
-import {DefaultTheme} from "./default-theme";
+import {DefaultTheme} from '@nehalist/gatsby-theme-nehalem';
 
 const Theme: DefaultTheme = {
   layout: {
-    backgroundColor: `#fff`,
+    backgroundColor: `#fafafa`,
     primaryColor: `#a4cbb8`,
     linkColor: `#a4cbb8`,
   },
@@ -22,7 +22,7 @@ const Theme: DefaultTheme = {
       width: `1260px`,
     },
     header: {
-      height: `440px`,
+      height: `340px`,
       background: `linear-gradient(-45deg, #44596e, #a4cbb8) repeat scroll 0 0 transparent`,
     },
   },

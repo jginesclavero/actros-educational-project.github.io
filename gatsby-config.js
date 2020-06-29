@@ -47,7 +47,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `${__dirname}/src/gatsby-theme-nehalem`,
+      resolve: `@nehalist/gatsby-theme-nehalem`,
       options: {
         manifest: {
           name: `nehalem - A Gatsby theme`,
