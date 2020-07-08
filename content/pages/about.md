@@ -1,6 +1,6 @@
 ---
 title: About Us
-path: "/about"
+path: "/actros.github.io/about"
 tags: ["About"]
 ---
 
