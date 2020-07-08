@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: "/actros.github.io",
   siteMetadata: {
-    title: `nehalem-starter`,
+    title: `ACTROS`,
     siteUrl: `https://actros-educational-project.github.io/actros.github.io`,
     description: `A Gatsby starter for nehalem`,
     topics: [],
