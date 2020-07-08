@@ -9,19 +9,19 @@ module.exports = {
     menu: [
       {
         name: 'Home',
-        path: '/'
+        path: '/actros.github.io/'
       },
       {
         name: 'About',
-        path: '/about'
+        path: '/actros.github.io/about'
       },
       {
         name: 'Courses',
-        path: '/courses'
+        path: '/actros.github.io/courses'
       },
       {
         name: 'Contact',
-        path: '/page'
+        path: '/actros.github.io/page'
       },
     ],
     footerMenu: [
