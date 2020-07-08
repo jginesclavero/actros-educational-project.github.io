@@ -55,7 +55,7 @@ module.exports = {
         manifest: {
           name: `nehalem - A Gatsby theme`,
           short_name: `nehalem`,
-          start_url: `https://actros-educational-project.github.io/actros.github.io/`,
+          start_url: `/actros.github.io/`,
           background_color: `#a4cbb8`,
           theme_color: `#a4cbb8`,
           display: `minimal-ui`,
