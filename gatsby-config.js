@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/actros.github.io',
+  pathPrefix: "/actros.github.io",
   siteMetadata: {
     title: `nehalem-starter`,
     siteUrl: `https://nehalem.netlify.com`,
