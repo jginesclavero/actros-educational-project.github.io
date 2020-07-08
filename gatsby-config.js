@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/actros.github.io',
   siteMetadata: {
     title: `nehalem-starter`,
     siteUrl: `https://nehalem.netlify.com`,
@@ -52,7 +53,7 @@ module.exports = {
         manifest: {
           name: `nehalem - A Gatsby theme`,
           short_name: `nehalem`,
-          start_url: `/actros.github.io`,
+          start_url: `/`,
           background_color: `#a4cbb8`,
           theme_color: `#a4cbb8`,
           display: `minimal-ui`,
