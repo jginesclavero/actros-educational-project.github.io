@@ -2,24 +2,26 @@ module.exports = {
   siteMetadata: {
     title: `ACTROS`,
     siteUrl: `https://actros-educational-project.github.io/actros.github.io`,
-    description: `A Gatsby starter for nehalem`,
-    topics: [],
+    description: `Center for Advanced Training on Robotics and %TOPICS%`,
+    topics: [
+      'Open Source'
+    ],
     menu: [
       {
         name: 'Home',
-        path: '/actros.github.io/'
+        path: '/'
       },
       {
         name: 'About',
-        path: '/actros.github.io/about'
+        path: '/about'
       },
       {
         name: 'Courses',
-        path: '/actros.github.io/courses'
+        path: '/courses'
       },
       {
         name: 'Contact',
-        path: '/actros.github.io/page'
+        path: '/page'
       },
     ],
     footerMenu: [
@@ -36,11 +38,11 @@ module.exports = {
         <a href="https://github.com/nehalist/gatsby-theme-nehalem" rel="noopener" target="_blank">star on GitHub!</a>`,
       social: {
         facebook: ``,
-        twitter: `https://twitter.com/nehalist`,
-        linkedin: `https://www.linkedin.com/in/kevin-hirczy-7a9377106/`,
+        twitter: `https://twitter.com/IntellRobotLabs`,
+        linkedin: ``,
         instagram: ``,
         youtube: ``,
-        github: `https://github.com/nehalist`,
+        github: `https://github.com/IntelligentRoboticsLabs`,
         twitch: ``
       }
     }
@@ -56,7 +58,7 @@ module.exports = {
           background_color: `#a4cbb8`,
           theme_color: `#a4cbb8`,
           display: `minimal-ui`,
-          icon: `${__dirname}/content/assets/images/logo.png`
+          icon: `${__dirname}/content/assets/images/intellrobotslab_icon.png`
         }
       }
     }
