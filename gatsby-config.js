@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `nehalem-starter`,
-    siteUrl: `https://nehalem.netlify.com`,
+    siteUrl: `https://actros-educational-project.github.io`,
     description: `A Gatsby starter for nehalem`,
     topics: [],
     menu: [
