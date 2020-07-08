@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `ATCROS`,
+    title: `nehalem-starter`,
     siteUrl: `https://nehalem.netlify.com`,
-    description: `Center for Advanced Training on Robotics and Open Source`,
+    description: `A Gatsby starter for nehalem`,
     topics: [],
     menu: [
       {
@@ -15,7 +15,7 @@ module.exports = {
       },
       {
         name: 'Courses',
-        path: '/page'
+        path: '/courses'
       },
       {
         name: 'Contact',
@@ -36,18 +36,18 @@ module.exports = {
         <a href="https://github.com/nehalist/gatsby-theme-nehalem" rel="noopener" target="_blank">star on GitHub!</a>`,
       social: {
         facebook: ``,
-        twitter: `https://twitter.com/IntellRobotLabs`,
-        linkedin: ``,
+        twitter: `https://twitter.com/nehalist`,
+        linkedin: `https://www.linkedin.com/in/kevin-hirczy-7a9377106/`,
         instagram: ``,
         youtube: ``,
-        github: `https://github.com/IntelligentRoboticsLabs`,
+        github: `https://github.com/nehalist`,
         twitch: ``
       }
     }
   },
   plugins: [
     {
-      resolve: `${__dirname}/src/gatsby-theme-nehalem`,
+      resolve: `@nehalist/gatsby-theme-nehalem`,
       options: {
         manifest: {
           name: `nehalem - A Gatsby theme`,
@@ -55,7 +55,8 @@ module.exports = {
           start_url: `/`,
           background_color: `#a4cbb8`,
           theme_color: `#a4cbb8`,
-          icon: `${__dirname}/content/assets/images/intellrobotslab_icon.png`
+          display: `minimal-ui`,
+          icon: `${__dirname}/content/assets/images/logo.png`
         }
       }
     }
