@@ -1,6 +1,6 @@
 ---
 title: ROS BASICS
-path: "/course1"
+path: "/actros.github.io/course1"
 tags: ["Course1"]
 featuredImage: "./ros_basics.jpg"
 excerpt: Basics concepts about ROS.

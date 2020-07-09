@@ -2,3 +2,8 @@
   color: "#007acc"
   icon: ./assets/images/logo.png
   featured: true
+
+- name: Course1
+  color: "#007acc"
+  icon: ./posts/course1/ros_basics.jpg
+  featured: true
