@@ -1,9 +1,9 @@
-import {DefaultTheme} from '@nehalist/gatsby-theme-nehalem';
+import {DefaultTheme} from "./default-theme";
 
 const Theme: DefaultTheme = {
   layout: {
-    backgroundColor: `#fafafa`,
-    primaryColor: `#a4cbb8`,
+    backgroundColor: `#fff`,
+    primaryColor: `#393636`,
     linkColor: `#a4cbb8`,
   },
   breakpoints: {
