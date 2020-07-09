@@ -1,6 +1,6 @@
 ---
 title: Courses
-path: "/courses"
+path: "/actros.github.io/courses"
 tags: ["Courses"]
 excerpt: Sample courses page.
 ---
@@ -9,7 +9,7 @@ excerpt: Sample courses page.
 
 Aprenderás los conceptos básicos sobre ROS, tales como el proceso de intercambio de información entre diversos nodos (grafo de computación). Aprenderás a crear tus propios nodos y herramientas de depuración y seguimiento.
 
-[![Image](../posts/course1/ros_basics.jpg)](/course1)
+[![Image](../posts/course1/ros_basics.jpg)](/actros.github.io/course1)
 
 <br><br>
 
