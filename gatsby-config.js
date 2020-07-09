@@ -1,5 +1,6 @@
 module.exports = {
   pathPrefix: "/actros.github.io",
+  assetPrefix: "/actros.github.io",
   siteMetadata: {
     title: `ATCROS`,
     siteUrl: `https://actros-educational-project.github.io/actros.github.io`,
