@@ -1,6 +1,6 @@
 ---
 title: Courses
-path: "/actros.github.io/courses"
+path: "/courses"
 tags: ["Courses"]
 excerpt: Sample courses page.
 ---
