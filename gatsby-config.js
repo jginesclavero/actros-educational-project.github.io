@@ -1,9 +1,7 @@
 module.exports = {
-  pathPrefix: "/actros.github.io",
-  assetPrefix: "/actros.github.io",
   siteMetadata: {
     title: `ATCROS`,
-    siteUrl: `https://actros-educational-project.github.io/actros.github.io`,
+    siteUrl: `https://actros-educational-project.github.io`,
     description: `Center for Advanced Training on Robotics and Open Source`,
     topics: [
       'Open Source'
@@ -11,25 +9,25 @@ module.exports = {
     menu: [
       {
         name: 'Home',
-        path: '/actros.github.io/'
+        path: '/'
       },
       {
         name: 'About',
-        path: '/actros.github.io/about'
+        path: '/about'
       },
       {
         name: 'Courses',
-        path: '/actros.github.io/courses'
+        path: '/courses'
       },
       {
         name: 'Contact',
-        path: '/actros.github.io/page'
+        path: '/page'
       },
     ],
     footerMenu: [
       {
         name: 'Example',
-        path: '/actros.github.io/page'
+        path: '/page'
       },
     ],
     search: true,
