@@ -25,6 +25,5 @@ El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permi
 
 * Pruebas en robots simulados y reales.
 
-<video width="320" height="240" controls>
- <source src="./Navigation2.mp4" type="video/mp4">
-</video>
+<iframe width="900" height="515" src="https://www.youtube.com/embed/OklxMhdDfe0">
+</iframe>
