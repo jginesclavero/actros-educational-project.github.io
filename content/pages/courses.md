@@ -20,3 +20,11 @@ Con el lanzamiento de ROS2, surge un nuevo sistema con unas características muc
 [![Image](../posts/ros2/ros2_link.png)](/ros2)
 
 <br><br>
+
+# Navegacion
+
+El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permite dotar a un robot de las capacidades básicas de movimiento de una forma sencilla
+
+[![Image](../posts/navegacion/navigation.jpg)](/navegacion)
+
+<br><br>

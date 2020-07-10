@@ -1,7 +1,7 @@
 - name: Demo
   color: "#007acc"
   icon: ./assets/images/logo.png
-  featured: true
+  featured: false
 
 - name: ROS
   color: "#007acc"
@@ -11,4 +11,9 @@
 - name: ROS2
   color: "#007acc"
   icon: ./assets/images/ros2_logo.png
+  featured: true
+
+- name: Navegacion
+  color: "#007acc"
+  icon: ./assets/images/navigation_logo.jpg
   featured: true
