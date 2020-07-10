@@ -26,8 +26,8 @@ module.exports = {
     ],
     footerMenu: [
       {
-        name: 'Example',
-        path: '/page'
+        name: 'About',
+        path: '/about'
       },
     ],
     search: true,
