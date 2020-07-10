@@ -11,23 +11,25 @@ module.exports = {
         name: 'Home',
         path: '/'
       },
+      /*
       {
         name: 'About',
         path: '/about'
-      },
+      },*/
       {
         name: 'Courses',
         path: '/courses'
-      },
+      } //Poner la coma cuando se descomente!
+      /*
       {
         name: 'Contact',
         path: '/contact'
-      },
+      },*/
     ],
     footerMenu: [
       {
-        name: 'About',
-        path: '/about'
+        name: 'Courses',
+        path: '/courses'
       },
     ],
     search: true,
