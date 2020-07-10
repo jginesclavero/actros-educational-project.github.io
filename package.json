@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@nehalist/gatsby-theme-nehalem": "^1.0.3",
+    "formik": "^2.1.4",
     "gatsby": "^2.13.55",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",

@@ -21,7 +21,7 @@ module.exports = {
       },
       {
         name: 'Contact',
-        path: '/page'
+        path: '/contact'
       },
     ],
     footerMenu: [
