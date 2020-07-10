@@ -25,6 +25,14 @@ Con el lanzamiento de ROS2, surge un nuevo sistema con unas características muc
 
 El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permite dotar a un robot de las capacidades básicas de movimiento de una forma sencilla
 
-[![Image](../posts/navegacion/navigation.jpg)](/navegacion)
+[![Image](../posts/navegacion/navigation.jpg)](/navigation)
+
+<br><br>
+
+# Percepción
+
+El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permite dotar a un robot de las capacidades básicas de movimiento de una forma sencilla
+
+[![Image](../posts/percepcion/perception.jpeg)](/perception)
 
 <br><br>
