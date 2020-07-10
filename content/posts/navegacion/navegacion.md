@@ -1,6 +1,6 @@
 ---
 title: Navegación
-path: "/navegacion"
+path: "/navigation"
 tags: ["Navegacion"]
 featuredImage: "./navigation.jpg"
 excerpt: El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permite dotar a un robot de las capacidades básicas de movimiento de una forma sencilla

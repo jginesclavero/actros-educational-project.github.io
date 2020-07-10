@@ -17,3 +17,8 @@
   color: "#007acc"
   icon: ./assets/images/navigation_logo.jpg
   featured: true
+
+- name: Percepcion
+  color: "#007acc"
+  icon: ./assets/images/perception_logo.jpg
+  featured: true
