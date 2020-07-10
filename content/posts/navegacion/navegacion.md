@@ -13,17 +13,14 @@ El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permi
 
 ## Objetivos del Curso
 
-* Tipos de sensores más habituales en robots.
+* Conceptos fundamentales de la navegación de ROS/ROS2.
 
-* Obtención de los datos de los sensores.
+* Creación de mapas, SLAM.
 
-* Procesamiento 2D de información de cámaras con OpenCV.
+* Conocimientos del sistema de localización.
 
-* Manejo de datos sensoriales en 3D.
-
-* Procesamiento 3D de información de cámaras RGBD con PCL.
+* Uso de parámetros para adaptar el sistema al entorno.
 
 * Pruebas en robots simulados y reales.
 
-<iframe width="900" height="515" src="https://www.youtube.com/embed/OklxMhdDfe0">
-</iframe>
+<iframe width="100%" height="485" src="https://www.youtube.com/embed/OklxMhdDfe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
