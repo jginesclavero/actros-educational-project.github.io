@@ -5,14 +5,18 @@ tags: ["Courses"]
 excerpt: Sample courses page.
 ---
 
-# ROS Basics
+# ROS
 
-Aprenderás los conceptos básicos sobre ROS, tales como el proceso de intercambio de información entre diversos nodos (grafo de computación). Aprenderás a crear tus propios nodos y herramientas de depuración y seguimiento.
+Robot Operating System (ROS) es el software mas usado en el mundo para la programación de robots. Desde sus comienzos en 2006, su uso se ha extendido de forma imparable, siendo en la actualidad el estándar en el mundo de la robótica
 
-[![Image](../posts/course1/ros_basics.jpg)](/course1)
+[![Image](../posts/ros/ros.jpg)](/ros)
 
 <br><br>
 
-# Segundo Curso
+# ROS2
 
-Aqui ponemos el siguiente curso
+Con el lanzamiento de ROS2, surge un nuevo sistema con unas características mucho más avanzadas y que será el nuevo estándar en desarrollo de software robótico en la industria
+
+[![Image](../posts/ros2/ros2_link.png)](/ros2)
+
+<br><br>

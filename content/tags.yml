@@ -3,7 +3,12 @@
   icon: ./assets/images/logo.png
   featured: true
 
-- name: Course1
+- name: ROS
   color: "#007acc"
-  icon: ./assets/images/course1_logo.jpeg
+  icon: ./assets/images/ros_logo.jpeg
+  featured: true
+
+- name: ROS2
+  color: "#007acc"
+  icon: ./assets/images/ros2_logo.png
   featured: true
