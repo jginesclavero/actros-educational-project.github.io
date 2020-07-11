@@ -1,8 +1,3 @@
-- name: Demo
-  color: "#007acc"
-  icon: ./assets/images/logo.png
-  featured: false
-
 - name: ROS
   color: "#007acc"
   icon: ./assets/images/ros_logo.jpeg
@@ -20,5 +15,10 @@
 
 - name: Percepcion
   color: "#007acc"
-  icon: ./assets/images/perception_logo.jpg
+  icon: ./assets/images/perception_logo.jpeg
+  featured: true
+
+- name: Deep Learning
+  color: "#007acc"
+  icon: ./assets/images/deep_learning_logo.jpg
   featured: true
