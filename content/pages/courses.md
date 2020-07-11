@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Cursos
 path: "/courses"
 tags: ["Courses"]
 excerpt: Sample courses page.
