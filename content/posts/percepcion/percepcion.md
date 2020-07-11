@@ -2,7 +2,7 @@
 title: Percepción
 path: "/perception"
 tags: ["Percepcion"]
-featuredImage: "./perception.jpeg"
+featuredImage: "./perception.png"
 excerpt: Los sensores son una fuente de datos muy importante para los robots. Gracias a ellos pueden reconocer su entorno y obtener información muy valiosa de él
 created: 2020-07-08
 ---
@@ -27,4 +27,4 @@ En concreto, la cámara constituye el sensor más complejo que, a su vez, propor
 
 * Pruebas en robots simulados y reales.
 
-<iframe width="100%" height="485" src="https://www.youtube.com/embed/HMWnCnnnQZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="485" src="https://www.youtube.com/embed/262S-Z1o4tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -33,6 +33,14 @@ El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permi
 
 El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permite dotar a un robot de las capacidades básicas de movimiento de una forma sencilla
 
-[![Image](../posts/percepcion/perception.jpeg)](/perception)
+[![Image](../posts/percepcion/perception.png)](/perception)
+
+<br><br>
+
+# Deep Learning
+
+El Deep Learning es una de las áreas de investigación más populares dentro del campo de la robótica. Las investigaciones en este área han logrado resultados sorprendes en campos como Procesamiento del Lenguaje Natural y Visión por computadora
+
+[![Image](../posts/deep_learning/deep_learning.jpeg)](/deep_learning)
 
 <br><br>
