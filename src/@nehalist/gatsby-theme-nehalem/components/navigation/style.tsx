@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import {Container} from "../common";
+import {Container} from "@nehalist/gatsby-theme-nehalem/src/components/common";
 import Theme from "../../styles/theme";
 import {Link} from "gatsby";
 
