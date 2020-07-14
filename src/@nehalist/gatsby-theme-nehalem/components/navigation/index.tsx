@@ -1,7 +1,7 @@
 import React, {FunctionComponent} from "react";
 import {Nav, NavContainer, NavLink, NavMenu, NavMenuItem, NavWrapper, SearchContainer} from "./style";
-import {MenuItem} from "../../utils/models";
-import {Search} from "../search";
+import {MenuItem} from "@nehalist/gatsby-theme-nehalem/src/utils/models";
+import {Search} from "@nehalist/gatsby-theme-nehalem/src/components/search";
 
 interface NavigationProps {
   title: string;
