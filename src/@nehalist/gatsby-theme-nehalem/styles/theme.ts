@@ -1,5 +1,5 @@
 import {DefaultTheme} from "./default-theme";
-var backgroundUrl = require('../../assets/atcros_logo.png');
+var backgroundUrl = require('../../../../content/assets/images/atcros_logo.png');
 
 
 const Theme: DefaultTheme = {
