@@ -26,7 +26,7 @@ const Theme: DefaultTheme = {
     header: {
       height: `370px`,
       //background: `linear-gradient(-45deg, #761e6d, #e61a0c) repeat scroll 0 0 transparent`,
-      background: `#ffffff url(${ backgroundUrl }) 50% 40%/50% no-repeat`,
+      background: `#ffffff url(${ backgroundUrl }) 50% 35%/45% no-repeat`,
     },
   },
 };
