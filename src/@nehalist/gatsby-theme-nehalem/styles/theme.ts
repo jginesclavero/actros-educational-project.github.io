@@ -23,7 +23,8 @@ const Theme: DefaultTheme = {
     },
     header: {
       height: `370px`,
-      background: `linear-gradient(-45deg, #761e6d, #e61a0c) repeat scroll 0 0 transparent`,
+      //background: `linear-gradient(-45deg, #761e6d, #e61a0c) repeat scroll 0 0 transparent`,
+      background: `#000000 url(${__dirname}/content/assets/images/intellrobotslab_icon.png) 100% 100% no-repeat;`
     },
   },
 };
