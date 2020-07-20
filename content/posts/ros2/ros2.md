@@ -12,7 +12,7 @@ updated: 2020-07-09
 
 ROS (Robot Operating System), today, is the standard in the robotics area. That is why research in this area is essential and it is an very important requirement to be able to access the working world in any job related to robotics. Now, with the ROS2 release, a new system with much more advanced characteristics is raised and it will be the new standard in robotic software development in the industry.
 
-## course targets
+## Course Targets
 
 * Differences between ROS and ROS2
 
