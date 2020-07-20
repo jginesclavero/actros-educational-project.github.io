@@ -5,7 +5,7 @@ tags: ["Courses"]
 excerpt: Sample courses page.
 ---
 
-# ROS
+# ROS Course
 
 Robot Operating System (ROS) Is the most used software around the world for robot programming. Since its beginnings, in 2006, its usage has been extended unstoppably. Nowadays, it is the standard in the robotic world.
 
@@ -13,15 +13,15 @@ Robot Operating System (ROS) Is the most used software around the world for robo
 
 <br><br>
 
-# ROS2
+# ROS2 Course
 
-Con el lanzamiento de ROS2, surge un nuevo sistema con unas características mucho más avanzadas y que será el nuevo estándar en desarrollo de software robótico en la industria
+With the ROS2 release, a new system with much more advanced characteristics is raised and it will be the new standard in robotic software development in the industry.
 
 [![Image](../posts/ros2/ros2_link.png)](/ros2)
 
 <br><br>
 
-# Navegacion
+# Navigation Course
 
 El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permite dotar a un robot de las capacidades básicas de movimiento de una forma sencilla
 
@@ -29,7 +29,7 @@ El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permi
 
 <br><br>
 
-# Percepción
+# Perception Course
 
 El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permite dotar a un robot de las capacidades básicas de movimiento de una forma sencilla
 
@@ -37,7 +37,7 @@ El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permi
 
 <br><br>
 
-# Deep Learning
+# Deep Learning Course
 
 El Deep Learning es una de las áreas de investigación más populares dentro del campo de la robótica. Las investigaciones en este área han logrado resultados sorprendes en campos como Procesamiento del Lenguaje Natural y Visión por computadora
 

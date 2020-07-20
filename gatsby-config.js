@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: ``,
+    title: `ATCROS`,
     siteUrl: `https://actros-educational-project.github.io`,
     description: `Center for Advanced Training on Robotics and %TOPICS%`,
     topics: [
