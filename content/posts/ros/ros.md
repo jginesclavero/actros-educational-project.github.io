@@ -1,5 +1,5 @@
 ---
-title: ROS
+title: ROS Course
 path: "/ros"
 tags: ["ROS"]
 featuredImage: "./ros.jpg"

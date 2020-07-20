@@ -1,5 +1,5 @@
 ---
-title: Navegación
+title: Navigation Course
 path: "/navigation"
 tags: ["Navegacion"]
 featuredImage: "./navigation.jpg"
