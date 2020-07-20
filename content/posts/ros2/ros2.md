@@ -4,8 +4,8 @@ path: "/ros2"
 tags: ["ROS2"]
 featuredImage: "./ros2.jpg"
 excerpt: Con el lanzamiento de ROS2, surge un nuevo sistema con unas características mucho más avanzadas y que será el nuevo estándar en desarrollo de software robótico en la industria
-created: 2020-07-10
-updated: 2020-07-10
+created: 2020-07-09
+updated: 2020-07-09
 ---
 
 ## Descripción

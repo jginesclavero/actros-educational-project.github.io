@@ -11,7 +11,7 @@ module.exports = {
     ],
     menu: [
       {
-        name: 'Inicio',
+        name: 'Home',
         path: '/'
       },
       /*
@@ -20,7 +20,7 @@ module.exports = {
         path: '/about'
       },*/
       {
-        name: 'Cursos',
+        name: 'Courses',
         path: '/courses'
       } //Poner la coma cuando se descomente!
       /*
@@ -31,7 +31,7 @@ module.exports = {
     ],
     footerMenu: [
       {
-        name: 'Cursos',
+        name: 'Courses',
         path: '/courses'
       },
     ],

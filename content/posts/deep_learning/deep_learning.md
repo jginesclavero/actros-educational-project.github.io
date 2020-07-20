@@ -4,7 +4,7 @@ path: "/deep_learning"
 tags: ["Deep Learning"]
 featuredImage: "./deep_learning.jpeg"
 excerpt: El Deep Learning es una de las áreas de investigación más populares dentro del campo de la robótica. Las investigaciones en este área han logrado resultados sorprendes en campos como Procesamiento del Lenguaje Natural y Visión por computadora
-created: 2020-07-07
+created: 2020-07-06
 ---
 
 ## Descripción

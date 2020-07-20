@@ -7,7 +7,7 @@ excerpt: Sample courses page.
 
 # ROS
 
-Robot Operating System (ROS) es el software mas usado en el mundo para la programación de robots. Desde sus comienzos en 2006, su uso se ha extendido de forma imparable, siendo en la actualidad el estándar en el mundo de la robótica
+Robot Operating System (ROS) Is the most used software around the world for robot programming. Since its beginnings, in 2006, its usage has been extended unstoppably. Nowadays, it is the standard in the robotic world.
 
 [![Image](../posts/ros/ros.jpg)](/ros)
 
