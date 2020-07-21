@@ -1,4 +1,4 @@
-import {DefaultTheme} from "./default-theme";
+import {DefaultTheme} from "@nehalist/gatsby-theme-nehalem/src/styles/default-theme";
 var backgroundUrl = require('../../../../content/assets/images/actros.png');
 
 
