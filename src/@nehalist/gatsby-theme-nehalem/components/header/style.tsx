@@ -18,11 +18,11 @@ export const TitleWrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 150%;
+  height: 102%;
   flex-direction: column;
 
   @media (max-width: ${Theme.breakpoints.sm}) {
-    margin-top: -150px;
+    margin-top: 90px;
     font-size: .75em;
     margin-left: 10px;
     margin-right: 10px;
