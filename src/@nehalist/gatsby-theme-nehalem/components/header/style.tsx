@@ -11,6 +11,7 @@ export const StyledHeader = styled.header`
 
   @media (max-width: ${Theme.breakpoints.sm}) {
     height: 30vh;
+    background-size: cover;
   }
 `;
 
@@ -22,7 +23,7 @@ export const TitleWrapper = styled.div`
   flex-direction: column;
 
   @media (max-width: ${Theme.breakpoints.sm}) {
-    margin-top: -60px;
+    margin-top: -70px;
     font-size: .75em;
     margin-left: 10px;
     margin-right: 10px;
