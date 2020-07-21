@@ -15,10 +15,10 @@ export const StyledHeader = styled.header`
 `;
 
 export const TitleWrapper = styled.div`
-  display: block;
+  display: flex;
   justify-content: center;
   align-items: center;
-  height: 150%;
+  height: 110%;
   flex-direction: column;
 
   @media (max-width: ${Theme.breakpoints.sm}) {
