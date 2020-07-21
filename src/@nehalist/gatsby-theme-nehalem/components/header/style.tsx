@@ -15,14 +15,14 @@ export const StyledHeader = styled.header`
 `;
 
 export const TitleWrapper = styled.div`
-  display: flex;
+  display: block;
   justify-content: center;
   align-items: center;
-  height: 100%;
+  height: 150%;
   flex-direction: column;
 
   @media (max-width: ${Theme.breakpoints.sm}) {
-    margin-top: -690px;
+    margin-top: -90px;
     font-size: .75em;
     margin-left: 10px;
     margin-right: 10px;

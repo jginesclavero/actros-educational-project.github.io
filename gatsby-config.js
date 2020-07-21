@@ -46,7 +46,7 @@ module.exports = {
         linkedin: ``,
         instagram: ``,
         youtube: ``,
-        github: `https://github.com/IntelligentRoboticsLabs`,
+        github: `https://github.com/ACTROS-Educational-Project`,
         twitch: ``
       }
     }
