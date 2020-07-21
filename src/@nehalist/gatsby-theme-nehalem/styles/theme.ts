@@ -1,5 +1,5 @@
 import {DefaultTheme} from "./default-theme";
-var backgroundUrl = require('../../../../content/assets/images/atcros.png');
+var backgroundUrl = require('../../../../content/assets/images/actros.png');
 
 
 const Theme: DefaultTheme = {
@@ -26,7 +26,7 @@ const Theme: DefaultTheme = {
     header: {
       height: `370px`,
       //background: `linear-gradient(-45deg, #761e6d, #e61a0c) repeat scroll 0 0 transparent`,
-      background: `#ffffff url(${ backgroundUrl }) 50% 30%/45% no-repeat`,
+      background: `#ffffff url(${ backgroundUrl }) 50% 30%/52% no-repeat`,
     },
   },
 };
