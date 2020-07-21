@@ -22,7 +22,7 @@ export const TitleWrapper = styled.div`
   flex-direction: column;
 
   @media (max-width: ${Theme.breakpoints.sm}) {
-    margin-top: -30px;
+    margin-top: -40px;
     font-size: .75em;
     margin-left: 10px;
     margin-right: 10px;
