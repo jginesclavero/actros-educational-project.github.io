@@ -11,7 +11,7 @@ export const StyledHeader = styled.header`
 
   @media (max-width: ${Theme.breakpoints.sm}) {
     height: 30vh;
-    background-size: cover;
+    background-size: contain;
   }
 `;
 
