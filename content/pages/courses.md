@@ -23,7 +23,7 @@ With the ROS2 release, a new system with much more advanced characteristics is r
 
 # Navigation Course
 
-El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permite dotar a un robot de las capacidades básicas de movimiento de una forma sencilla
+The ROS/ROS2 navigation stack is one of its main packages and it allow to give a robot basic capacities of movement in an easy way.
 
 [![Image](../posts/navegacion/navigation.jpg)](/navigation)
 
