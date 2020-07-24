@@ -8,7 +8,7 @@
   icon: ./assets/images/ros2_logo.png
   featured: true
 
-- name: Navegacion
+- name: Navigation
   color: "#007acc"
   icon: ./assets/images/navigation_logo.jpg
   featured: true
