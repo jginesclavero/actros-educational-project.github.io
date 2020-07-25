@@ -13,7 +13,7 @@
   icon: ./assets/images/navigation_logo.jpg
   featured: true
 
-- name: Percepcion
+- name: Perception
   color: "#007acc"
   icon: ./assets/images/perception_logo.jpeg
   featured: true
