@@ -39,7 +39,7 @@ Sensors are a data source very important for robots. Because of them, they can r
 
 # Deep Learning Course
 
-El Deep Learning es una de las áreas de investigación más populares dentro del campo de la robótica. Las investigaciones en este área han logrado resultados sorprendes en campos como Procesamiento del Lenguaje Natural y Visión por computadora
+Deep Learning is one of the most popular areas in the robotics field. Researchs in this area have got awesome results in fields like Natural Language Processing and Computer Vision.
 
 [![Image](../posts/deep_learning/deep_learning.jpeg)](/deep_learning)
 
