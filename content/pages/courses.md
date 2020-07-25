@@ -25,15 +25,15 @@ With the ROS2 release, a new system with much more advanced characteristics is r
 
 The ROS/ROS2 navigation stack is one of its main packages and it allow to give a robot basic capacities of movement in an easy way.
 
-[![Image](../posts/navegacion/navigation.jpg)](/navigation)
+[![Image](../posts/navigation/navigation.jpg)](/navigation)
 
 <br><br>
 
 # Perception Course
 
-El stack de navegación de ROS/ROS2 es uno de sus paquetes fundamentales y permite dotar a un robot de las capacidades básicas de movimiento de una forma sencilla
+Sensors are a data source very important for robots. Because of them, they can recognize its environment and get information very valious about it.
 
-[![Image](../posts/percepcion/perception.png)](/perception)
+[![Image](../posts/perception/perception.png)](/perception)
 
 <br><br>
 
