@@ -1,5 +1,5 @@
 # Nehalem Gatsby starter
-# test
+
 <p align="center">
     <img src="https://github.com/nehalist/gatsby-theme-nehalem/blob/master/theme/logo.png?raw=true">
 </p>
