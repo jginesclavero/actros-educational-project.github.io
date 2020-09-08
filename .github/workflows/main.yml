@@ -7,6 +7,8 @@ name: CI
 on:
   push:
     branches: [ src ]
+  pull_request:
+    branches: [ src ]
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -26,3 +28,4 @@ jobs:
         deploy-branch: master
         # Additional arguments that get passed to `gatsby build`.
         gatsby-args: --prefix-paths
+        skip-publish: true
